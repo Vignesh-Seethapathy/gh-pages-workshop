@@ -19,7 +19,7 @@ Fun!
 
 {% include toc.html %}
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [Vignesh Seethapathy](https://github.com/Vignesh-Seethapathy), {{ site.pub_year }}.
 
 ------
 
